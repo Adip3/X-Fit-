@@ -1,0 +1,72 @@
+[
+  {
+    "id": "c192671a-7c0b-42cc-8151-f5d576b5505f",
+    "productId": "57bc7f11-7dd4-4c66-96ac-57a8ebc03a48",
+    "discount": 10,
+    "salePrice": 135,
+    "tag": "sbdunk on sale ",
+    "active": false,
+    "endsAt": "2026-03-17",
+    "createdAt": "2026-03-16T16:43:20.893Z"
+  },
+  {
+    "id": "eee55b8b-2fcc-4c45-9d42-217086753229",
+    "productId": "a009516c-3907-4a6b-b004-2696fda82e38",
+    "discount": 12,
+    "salePrice": 12000,
+    "tag": "new offer ",
+    "active": false,
+    "endsAt": "2026-03-16",
+    "createdAt": "2026-03-22T03:47:14.587Z"
+  },
+  {
+    "id": "ff891fc1-7249-4fc8-8d71-674b0dd602c7",
+    "productId": "57bc7f11-7dd4-4c66-96ac-57a8ebc03a48",
+    "discount": 10,
+    "salePrice": 135,
+    "tag": "Sale",
+    "active": false,
+    "endsAt": "2026-03-23",
+    "createdAt": "2026-03-22T03:50:14.934Z"
+  },
+  {
+    "id": "3c7d1018-b8cd-45b1-a01a-467dd3597e56",
+    "productId": "57bc7f11-7dd4-4c66-96ac-57a8ebc03a48",
+    "discount": 10,
+    "salePrice": 16800,
+    "tag": "Sale",
+    "active": false,
+    "endsAt": "2026-03-01",
+    "createdAt": "2026-03-22T05:57:35.406Z"
+  },
+  {
+    "id": "4cda8bb2-5b5d-47e5-979e-e4ab881fc62f",
+    "productId": "2",
+    "discount": 10,
+    "salePrice": 34,
+    "tag": "hot deal",
+    "active": false,
+    "endsAt": "2026-04-01",
+    "createdAt": "2026-04-19T19:54:27.788Z"
+  },
+  {
+    "id": "36359e8d-b183-48ed-bc73-156400f752bb",
+    "productId": "3",
+    "discount": 56,
+    "salePrice": 565,
+    "tag": "gg",
+    "active": true,
+    "endsAt": "2026-04-22",
+    "createdAt": "2026-04-19T20:11:09.149Z"
+  },
+  {
+    "id": "46d6f6cd-b0f8-4237-ae35-75510a2ac3fe",
+    "productId": "a009516c-3907-4a6b-b004-2696fda82e38",
+    "discount": 89,
+    "salePrice": 3459,
+    "tag": "Hot deal ",
+    "active": true,
+    "endsAt": "2026-04-22",
+    "createdAt": "2026-04-19T20:15:59.742Z"
+  }
+]

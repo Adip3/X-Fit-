@@ -1,0 +1,106 @@
+[
+  {
+    "id": "admin-1",
+    "name": "Admin",
+    "email": "admin@xsow.com",
+    "password": "$2b$10$GnMxT9MoaBnZvhWbuM1.I.Ssnv8enppyXtej363LlggOe2sr.1XA6",
+    "role": "admin",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "347e1d77-c71c-49f9-9c69-155465ca9e1a",
+    "name": "Reyaham ",
+    "email": "reyaham@xsow.com",
+    "password": "$2a$10$4pKuut9iu2NEE7S6IZwHl.gpNRUCQtCvN9sdAUZQ5oC/eyvabVybu",
+    "role": "customer",
+    "createdAt": "2026-03-14T17:48:35.180Z"
+  },
+  {
+    "id": "b15a80a5-41c8-4e47-88eb-c1766073fe1b",
+    "name": "hiiii",
+    "email": "hell@gmail.com",
+    "password": "$2a$10$rYTI8wUDHpSOJ19.eTN8XOkzDbOaQgnDzlX3Wae5AYHGPg9cqUQxy",
+    "role": "customer",
+    "createdAt": "2026-03-15T01:30:08.745Z"
+  },
+  {
+    "id": "43cfcdd0-3b8b-45c8-8856-c32d2571c46e",
+    "name": "Adip",
+    "email": "adipxsow@xsow.com",
+    "password": "$2a$10$qr1gXBVMjVwrxHWc/Mj5o.8IRi3PbB57twj3gg8Vu37qo9biFA5YO",
+    "role": "customer",
+    "createdAt": "2026-03-22T03:45:30.583Z"
+  },
+  {
+    "id": "3fb04e96-5ec3-443c-a630-490f00413757",
+    "name": "adip",
+    "email": "hello@gmail.com",
+    "password": "$2a$10$0J6blifoWmLYbgw7u/Q7Le.pnIIukT0SLHaP4hduKoZakRqdX4u1S",
+    "role": "customer",
+    "createdAt": "2026-04-12T01:54:50.750Z"
+  },
+  {
+    "id": "625f4295-25f1-4ee8-8bb6-e023b9363100",
+    "name": "Adip ",
+    "email": "kcadip123456@gmail.com",
+    "password": "$2a$10$iWGhe8I0Ccio05nF6w4V2.OdIQicuGCCf0p0qO3WTt/FY2OLqIxBq",
+    "role": "customer",
+    "createdAt": "2026-04-19T14:27:36.513Z"
+  },
+  {
+    "id": "7694663b-1833-46a4-a44a-90f888ba103e",
+    "name": "Adip ",
+    "email": "kcadip12345@gmail.com",
+    "password": "$2a$10$0aKw1F25wroxoN8JRc8iQ.B0DeIsGYh.htQYQtQORtajWS.7biv66",
+    "role": "customer",
+    "createdAt": "2026-04-19T14:28:01.527Z"
+  },
+  {
+    "id": "947a5e5b-1981-469b-a226-ed064c28806e",
+    "name": "Adip ",
+    "email": "kcadip1235@gmail.com",
+    "password": "$2a$10$fx9x1TICymZJ3hrjT1FlZ.5pJE0iPyo40TDSvOJQzKOkfzRNtykRe",
+    "role": "customer",
+    "createdAt": "2026-04-19T14:28:13.347Z"
+  },
+  {
+    "id": "aa86704a-b4a7-4412-ae36-e08de006ad06",
+    "name": "Adip ",
+    "email": "kcadip123@gmail.com",
+    "password": "$2a$10$XUG5SJtpmYXCMGPQUC1PJeyoiO8JAiBI48NVqjd44u71Ie02zhrQm",
+    "role": "customer",
+    "createdAt": "2026-04-19T14:28:25.714Z"
+  },
+  {
+    "id": "04f94984-7f12-426d-8159-fde96a83ba35",
+    "name": "HI",
+    "email": "kcadip78@gmail.com",
+    "password": "$2a$10$FQMB3aX1DLpU7z.kxbCbnez83BNEUBarNJMfMYTSE/J37izRCgNgO",
+    "role": "customer",
+    "createdAt": "2026-04-19T19:32:23.439Z"
+  },
+  {
+    "id": "3178b827-073c-4b0a-a1f1-0baa86539999",
+    "name": "HI",
+    "email": "kcadip7@gmail.com",
+    "password": "$2a$10$0LWEaTdULCkRnJyDe1uSBOkgLYQS9m06K/UsHpHBeox0sLCwEwmei",
+    "role": "customer",
+    "createdAt": "2026-04-19T19:32:36.701Z"
+  },
+  {
+    "id": "52c3ed02-a6ac-4826-8596-6f90725b79e3",
+    "name": "HI",
+    "email": "kcadip@gmail.com",
+    "password": "$2a$10$cWsWVdOvqqe9ukmKdYHoUeOk1K0B9bzCocezQtgdOi6DWyKYxqUFq",
+    "role": "customer",
+    "createdAt": "2026-04-19T19:32:47.234Z"
+  },
+  {
+    "id": "9641a140-b70a-48f6-877b-cd25b9953c23",
+    "name": "HI",
+    "email": "kcadi@gmail.com",
+    "password": "$2a$10$7BKZ/s8tRfGAXwTDyX0vsu7QYwUiPkafMDBazo5IqrzKMpbdZHVHu",
+    "role": "customer",
+    "createdAt": "2026-04-19T19:32:54.387Z"
+  }
+]

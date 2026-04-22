@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a86cf5b0-0650-4e71-a1c5-812900388e18",
+    "requestNumber": "BLK-9B6006C5",
+    "userId": "43cfcdd0-3b8b-45c8-8856-c32d2571c46e",
+    "customerName": "Adip",
+    "customerEmail": "adipxsow@xsow.com",
+    "businessName": "YAYA",
+    "phone": "9806529292",
+    "items": [
+      {
+        "productId": "ca8b5f20-bbe2-4067-a500-d13170229605",
+        "name": "Puma ",
+        "originalPrice": 120,
+        "requestedQuantity": 10,
+        "fabric": "Full Grain Leather",
+        "image": "/uploads/1775962288619-xsow2.webp",
+        "bulkPrice": null,
+        "approved": false
+      }
+    ],
+    "message": "Please i need In bulk discount!!",
+    "status": "pending",
+    "adminNote": "",
+    "totalOriginal": 1200,
+    "totalBulkPrice": null,
+    "createdAt": "2026-04-19T18:16:02.018Z",
+    "updatedAt": "2026-04-19T18:16:02.019Z"
+  },
+  {
+    "id": "9d4b97f4-7eb3-4d30-88c2-1ae04ba4816b",
+    "requestNumber": "BLK-A1D7C3C1",
+    "userId": "43cfcdd0-3b8b-45c8-8856-c32d2571c46e",
+    "customerName": "Adip",
+    "customerEmail": "adipxsow@xsow.com",
+    "businessName": "",
+    "phone": "",
+    "items": [
+      {
+        "productId": "ca8b5f20-bbe2-4067-a500-d13170229605",
+        "name": "Puma ",
+        "originalPrice": 120,
+        "requestedQuantity": 10,
+        "fabric": "Full Grain Leather",
+        "image": "/uploads/1775962288619-xsow2.webp",
+        "bulkPrice": null,
+        "approved": false
+      }
+    ],
+    "message": "",
+    "status": "pending",
+    "adminNote": "",
+    "totalOriginal": 1200,
+    "totalBulkPrice": null,
+    "createdAt": "2026-04-19T18:18:28.213Z",
+    "updatedAt": "2026-04-19T18:18:28.213Z"
+  },
+  {
+    "id": "7f4ea8ac-b51f-48e6-b462-ee1da5ef6825",
+    "requestNumber": "BLK-C12BBF6C",
+    "userId": "04f94984-7f12-426d-8159-fde96a83ba35",
+    "customerName": "HI",
+    "customerEmail": "kcadip78@gmail.com",
+    "businessName": "YAYA",
+    "phone": "9806529292",
+    "items": [
+      {
+        "productId": "501154ac-59e6-4197-809a-b85bde10e1b3",
+        "name": "Nike Track Suit ",
+        "originalPrice": 123,
+        "requestedQuantity": 10,
+        "fabric": "Knit & Mesh",
+        "image": "/uploads/1775962229010-xsow1.webp",
+        "bulkPrice": 5555,
+        "approved": true
+      }
+    ],
+    "message": "ddd",
+    "status": "quoted",
+    "adminNote": "Diescount",
+    "totalOriginal": 1230,
+    "totalBulkPrice": 55550,
+    "createdAt": "2026-04-19T19:50:20.636Z",
+    "updatedAt": "2026-04-19T19:51:26.734Z"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "siteEnabled": true,
+  "maintenanceMessage": "We're currently updating our store. Please check back soon!",
+  "privacyPolicy": "<h2>Privacy Policy for xsow</h2><p><strong>Last updated:</strong> January 2026</p><h3>1. Information We Collect</h3><p>We collect information you provide directly, such as when you create an account, make a purchase, or subscribe to our newsletter.</p><h3>2. How We Use Your Information</h3><p>We use information to process transactions, send order confirmations, respond to requests, and improve our services.</p><h3>3. Data Security</h3><p>We implement security measures to protect your personal information.</p><h3>4. Contact Us</h3><p>Contact us at customer@xsow.com.</p>",
+  "heroTitle": "The New Arrival",
+  "heroBrand": "xsow",
+  "heroSubtitle": "Discover stylish xsow arrivals, quality comfort, and innovation for your active life.",
+  "heroTagline": "Our Summer Collection",
+  "categories": [
+    "Running",
+    "Casual",
+    "Hiking",
+    "Sports",
+    "Formal",
+    "Clothes"
+  ]
+}

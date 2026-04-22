@@ -1,0 +1,84 @@
+[
+  {
+    "id": "96c04842-a31a-4119-893e-1f39a8abeed3",
+    "userId": "b15a80a5-41c8-4e47-88eb-c1766073fe1b",
+    "items": [],
+    "createdAt": "2026-03-15T06:17:15.316Z"
+  },
+  {
+    "id": "a11555a6-db1e-4146-bb87-39e1333710ab",
+    "userId": "347e1d77-c71c-49f9-9c69-155465ca9e1a",
+    "items": [
+      {
+        "productId": "57bc7f11-7dd4-4c66-96ac-57a8ebc03a48",
+        "quantity": 1,
+        "addedAt": "2026-03-16T16:41:19.046Z"
+      }
+    ],
+    "createdAt": "2026-03-15T06:28:56.390Z"
+  },
+  {
+    "id": "475b0602-c005-42f3-a358-a6241996ef6d",
+    "userId": "3fb04e96-5ec3-443c-a630-490f00413757",
+    "items": [
+      {
+        "productId": "a6357867-aabd-475c-b98e-aeb4a4a5ffa5",
+        "quantity": 1,
+        "addedAt": "2026-04-12T01:54:59.181Z"
+      },
+      {
+        "productId": "973454ff-9097-498c-9c2d-f2df99005d98",
+        "quantity": 1,
+        "addedAt": "2026-04-12T01:55:06.084Z"
+      }
+    ],
+    "createdAt": "2026-04-12T01:54:56.808Z"
+  },
+  {
+    "id": "56357e1e-585d-490b-9b9d-1b635b2bede5",
+    "userId": "6eba4cfb-f0fb-46f6-b6b8-0a7dd58000e2",
+    "items": [
+      {
+        "productId": "e246a757-faf6-4dcb-8947-965070a4faa3",
+        "quantity": 1,
+        "addedAt": "2026-04-19T11:24:28.185Z"
+      },
+      {
+        "productId": "714e55e0-5627-413c-ba29-149da2f9677f",
+        "quantity": 1,
+        "addedAt": "2026-04-19T17:52:10.210Z"
+      }
+    ],
+    "createdAt": "2026-04-19T11:23:42.442Z"
+  },
+  {
+    "id": "de446528-5eaa-489f-a2f8-6354c2011cba",
+    "userId": "625f4295-25f1-4ee8-8bb6-e023b9363100",
+    "items": [],
+    "createdAt": "2026-04-19T14:33:51.763Z"
+  },
+  {
+    "id": "eedf13be-08bb-4c7b-9ac9-0e26ef452ee8",
+    "userId": "04f94984-7f12-426d-8159-fde96a83ba35",
+    "items": [
+      {
+        "productId": "2",
+        "quantity": 4,
+        "addedAt": "2026-04-19T19:46:58.883Z"
+      }
+    ],
+    "createdAt": "2026-04-19T19:41:57.271Z"
+  },
+  {
+    "id": "0089669b-a4ed-4d5d-ad11-25a16b439894",
+    "userId": "admin-1",
+    "items": [],
+    "createdAt": "2026-04-20T10:39:39.044Z"
+  },
+  {
+    "id": "1235c554-5c50-4848-9ce8-a5699ce0b08d",
+    "userId": "43cfcdd0-3b8b-45c8-8856-c32d2571c46e",
+    "items": [],
+    "createdAt": "2026-04-20T10:41:26.863Z"
+  }
+]

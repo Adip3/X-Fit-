@@ -1,0 +1,12 @@
+import express from "express";
+import { getAllUsers, getUserById, createUser, updateUser, deleteUser, emailUser, emailSubscribers } from "../controllers/userController.js";
+import { authenticate, isAdmin } from "../middleware/auth.js";
+const router = express.Router();
+router.get("/", authenticate, isAdmin, getAllUsers);
+router.get("/:id", authenticate, isAdmin, getUserById);
+router.post("/", authenticate, isAdmin, createUser);
+router.put("/:id", authenticate, isAdmin, updateUser);
+router.delete("/:id", authenticate, isAdmin, deleteUser);
+router.post("/:id/email", authenticate, isAdmin, emailUser);
+router.post("/bulk-email/subscribers", authenticate, isAdmin, emailSubscribers);
+export default router;

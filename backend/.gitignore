@@ -1,0 +1,8 @@
+node_modules/
+uploads/*.png
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.svg
+uploads/*.webp
+!uploads/.gitkeep
+.env
