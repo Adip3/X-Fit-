@@ -12,7 +12,7 @@ import Profile from "./sections/Profile";
 import Cart from "./sections/Cart";
 import Checkout from "./sections/Checkout";
 import Orders from "./sections/Orders";
-import PrivacyPolicy from "./sections/PrivacyPolicy";
+import Legal from "./sections/Legal";
 import NewArrivals from "./sections/NewArrivals";
 import TopSelling from "./sections/TopSelling";
 import BulkOrders from "./sections/BulkOrders";
@@ -82,7 +82,7 @@ const App = () => {
           <Route path="/payment/failure" element={<PageWrapper><PaymentFailure /></PageWrapper>} />
           <Route path="/profile" element={<PageWrapper><Profile /></PageWrapper>} />
           <Route path="/about-us" element={<PageWrapper><AboutUs /></PageWrapper>} />
-          <Route path="/privacy-policy" element={<PageWrapper><PrivacyPolicy /></PageWrapper>} />
+          <Route path="/privacy-policy" element={<PageWrapper><Legal /></PageWrapper>} />
           <Route path="/new-arrivals" element={<PageWrapper><NewArrivals fullPage /></PageWrapper>} />
           <Route path="/top-selling" element={<PageWrapper><TopSelling fullPage /></PageWrapper>} />
         </>)}

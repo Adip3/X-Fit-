@@ -55,7 +55,7 @@
     "discount": 56,
     "salePrice": 565,
     "tag": "gg",
-    "active": true,
+    "active": false,
     "endsAt": "2026-04-22",
     "createdAt": "2026-04-19T20:11:09.149Z"
   },
@@ -65,7 +65,7 @@
     "discount": 89,
     "salePrice": 3459,
     "tag": "Hot deal ",
-    "active": true,
+    "active": false,
     "endsAt": "2026-04-22",
     "createdAt": "2026-04-19T20:15:59.742Z"
   }
